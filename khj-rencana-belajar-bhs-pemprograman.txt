@@ -1,3 +1,4 @@
 Belajar
 - C
+* Mempelajari array
 - Phyton
